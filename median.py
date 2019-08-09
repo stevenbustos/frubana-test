@@ -20,13 +20,11 @@ def median(limin, limax):
         maxN = float(limax[0])
         m = float((minN+maxN)/2)
         num_format(m)
-        # print (round(m, 1).is_integer())
     elif( len(limax) == len(limin) > 1):
         minN = float(limin[len(limin)-1])
         maxN = float(limax[0])
         m = float((minN+maxN)/2)
         num_format(m)
-        # print (round(m, 1).is_integer())
     else:
         print ("Wrong!")
 
