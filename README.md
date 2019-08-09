@@ -41,11 +41,11 @@ En otro metodo calculo el resultado de la sumatoria de los colores diferentes de
   -Escalable: Se debe poder escalar el proyecto dependiendo nuevos requerimientos o implementacion de nuevas tecnologias.
 
 * Qué patrones conoce? y utiliza?
-  Conozco los patrones de diseño:
-  - Singleton
-  - Prototype
-  - Decorator
-  - Observer
-  No uso ninguno.
+  * Conozco los patrones de diseño:
+     - Singleton
+     - Prototype
+     - Decorator
+     - Observer
+  * No uso ninguno.
 
 
